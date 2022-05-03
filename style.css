@@ -1,10 +1,46 @@
 body {
-    background-image: url(https://images4.alphacoders.com/925/925906.jpg);
-    background-color: #cccccc;
+   
+    
 }
-h2 {
+
+a {
     color: azure;
+    text-align: center;
 }
+
+nav {
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}   
+
+body {
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: sandybrown;
+    
+}
+
+
+section {
+    height: 100vh;
+    padding: 10em;
+    background-color: salmon;
+    }
+
 h1 {
-    color: azure;
+    font-size: 3em;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    text-align: center;
 }
